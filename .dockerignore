@@ -1,0 +1,7 @@
+build/
+node_modules/
+.gitignore
+Jenkinsfile
+*.md
+docs
+elm-stuff
